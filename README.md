@@ -1,6 +1,6 @@
 # QA-FRAMEWORK
 
-This is QA framework for all web based and API test projects. The entire test projects such as Hailocab-automation, services-automation are childern of this project.
+This is QA framework for all web based and API test projects. The entire test projects such as hannes-automation, services-automation are childern of this project.
  
    - Java maven project
    - Webdriver / selenium 2 for browser testing and uses Junit for asserstion
@@ -23,6 +23,6 @@ On the QA-FRAMEWORK project run the command below to install the jar file that w
 ## After Installation 
 Insure that the maven build was sucess.
 The jar file created will be the dependency for: 
-Hailocab-automation and services-automation projects
+hannes-automation and services-automation projects
 
  
